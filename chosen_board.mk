@@ -1,0 +1,6 @@
+BOARD=pcDuino_Samoa
+ANDROID=
+SOC=SC7731
+UBOOT_CONFIG=sp7731gea
+MACH=armv7
+KERNEL_CONFIG=sp7731gea-dt_defconfig
